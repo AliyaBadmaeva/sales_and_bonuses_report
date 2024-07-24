@@ -1,0 +1,6 @@
+employees = [
+    (1, 'Shershukov', 'Viktor', 'Kuzmich',),
+    (2, 'Bitova', 'Anastasia', 'Yuryevna',),
+    (3, 'Kirillov', 'Valentine', 'Vladislavovich',),
+    (4, 'Ignatiev', 'Igor', 'Dmitrievich',),
+]
